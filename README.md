@@ -2,6 +2,12 @@ This is my Own designed logo of NABEEZON APP
 ![nabeezon_logo_full](https://user-images.githubusercontent.com/102978916/169607901-b95bc461-853b-428c-9fba-10190a6687ba.png)
 APP screenshot 
 ![Screenshot (1247)](https://user-images.githubusercontent.com/102978916/169609258-67e283d7-f55d-4182-8461-2ebc87bfdb94.png)
+Moralis speedy notes at starting
+![Screenshot (1249)](https://user-images.githubusercontent.com/102978916/169616901-988c32c1-1cca-46ec-b179-a018d5661bc8.png)
+Moralis Database at starting
+![Screenshot (1248)](https://user-images.githubusercontent.com/102978916/169616966-499ed07c-de87-4b87-8618-7b1cae9bc18b.png)
+
+ 
 
 _*** Hey Sir Nabeel here !
 * This is the project of Digital Assets store which i makes in around 20 days in 6 to 7 turn because i was facing several problems...
